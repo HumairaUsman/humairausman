@@ -22,7 +22,7 @@
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
 
-- *LinkedIn:* [humairausman](https://www.linkedin.com/in/humairausman13)
+- *LinkedIn:* [humairausman](https://www.linkedin.com/in/humaira-usman-07b228183)
 - *Email:* humairausman1212@gmail.com
   
 <p align="center">
