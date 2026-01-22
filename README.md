@@ -11,12 +11,13 @@
     <img src="https://skillicons.dev/icons?i=aws,py,docker,kubernetes,terraform,jenkins,tensorflow,pytorch,sklearn,js,html,css,mysql,git&perline=14" />
   </a>
 </p>
-**Core Competencies	Key Tools & Libraries**
+
 | Core Competencies | Key Tools & Libraries |
 | :--- | :--- |
 | **Cloud & DevOps** | **AWS**, **Docker**, **Kubernetes**, **Terraform**, Jenkins, Git |
 | **Data Science & ML** | **Python**, **Pandas**, **NumPy**, Scikit-learn, **TensorFlow**, **PyTorch**, GenAI |
 | **Web & Databases** | **JavaScript**, **HTML**, **CSS**, **SQL** |
+
 ---
 
 I'm always interested in discussing new project ideas or roles. Feel free to reach out!
